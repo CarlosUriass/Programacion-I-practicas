@@ -17,15 +17,14 @@ Al terminar la captura se debe de mostrar en pantalla la siguiente información:
 
 ## Datos de prueba para validar que su programa funcione correctamente: ($ 2,000.00 pesos cuota)
 
-| Clave | Carrera                | Nombre de Alumno      | Año Escolar a Cursar | Calif Promedio | $ Descto | $ Neto (ya con Descto) |
-|-------|------------------------|-----------------------|-----------------------|----------------|----------|--------------------------|
-| 2     | Jorge Luis Borges      | 3                     | 8.5                   | $ 400.00       | $ 1,600.00               |
-| 1     | Juan Rulfo             | 5                     | 9.1                   | $ 600.00       | $ 1,400.00               |
-| 1     | Amado Nervo            | 1                     | 9.8                   | $0.00          | $2,000.00                |
-| 3     | Carlos Fuentes         | 1                     | 9.4                   | $0.00          | $2,000.00                |
-| 1     | Octavio Paz            | 4                     | 7.5                   | $0.00          | $2,000.00                |
-| 4     | Pito Perez Peraza      | 2                     | 9.5                   | $600.00        | $1,400.00                |
-| 3     | Mario Vargas Llosa     | 2                     | 8.8                   | $ 400.00       | $ 1,600.00               |
-| 3     | Gabriel Garcia Marquez | 3                     | 7.2                   | $ 0.00         | $2,000.00                |
-| 2     | Pablo Neruda           | 1                     | 9.9                   | $ 0.00         | $2,000.00                |
-```
+| Clave | Nombre de Alumno      | Año Escolar a Cursar | Calif Promedio | $ Neto (ya con Descto) |
+|-------|-----------------------|-----------------------|----------------|------------------------|
+| 2     | Jorge Luis Borges     | 3                     | 8.5            | $ 1,600.00            |
+| 1     | Juan Rulfo            | 5                     | 9.1            | $ 1,400.00            |
+| 1     | Amado Nervo           | 1                     | 9.8            | $2,000.00             |
+| 3     | Carlos Fuentes        | 1                     | 9.4            | $2,000.00             |
+| 1     | Octavio Paz           | 4                     | 7.5            | $2,000.00             |
+| 4     | Pito Perez Peraza     | 2                     | 9.5            | $1,400.00             |
+| 3     | Mario Vargas Llosa    | 2                     | 8.8            | $ 1,600.00            |
+| 3     | Gabriel Garcia Marquez| 3                     | 7.2            | $2,000.00             |
+| 2     | Pablo Neruda          | 1                     | 9.9            | $2,000.00             |
