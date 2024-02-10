@@ -10,9 +10,9 @@ En este repositorio encontrarás una serie de prácticas desarrolladas en el len
 
 El contenido del repositorio se organiza de la siguiente manera:
 
-1. **Práctica 1:** Cálculo de pago de agua en Los Mochis.
-2. **Práctica 2:** Cálculo de descuento en inscripciones UAS.
-3. **Práctica 3:** Cálculo de pago por viaje de maíz.
+1. **Práctica 2:** Venta de ladrillos
+2. **Práctica 3:** Cálculo de descuento en inscripciones UAS.
+3. **Práctica 4:** Cálculo de pago por viaje de maíz.
 
 ## ⚙️ Requisitos
 
