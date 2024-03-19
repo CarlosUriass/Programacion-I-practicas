@@ -18,6 +18,8 @@ El contenido del repositorio se organiza de la siguiente manera:
 7. **Práctica 7:** Tienda de abarrotes.
 8. **Práctica 8:** Presupuesto Sinaloa.
 
+9. **Práctica 9:** Venta de ladrillos (Interfaz grafica)
+
 ## ⚙️ Requisitos
 
 Para poder ejecutar las prácticas, es necesario contar con un entorno de desarrollo compatible con Visual Basic. Se recomienda el uso de [Visual Studio](https://visualstudio.microsoft.com/es/vs/), ya que proporciona una amplia gama de herramientas y funcionalidades para el desarrollo en este lenguaje.
