@@ -20,6 +20,7 @@ El contenido del repositorio se organiza de la siguiente manera:
 
 9. **Práctica 9:** Venta de ladrillos (Interfaz grafica)
 10. **Práctica 10.** Aguinaldo
+11. **Práctica 11.** Gasolinera
 
 ## ⚙️ Requisitos
 
