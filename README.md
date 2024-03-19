@@ -14,6 +14,9 @@ El contenido del repositorio se organiza de la siguiente manera:
 3. **Práctica 3:** Cálculo de descuento en inscripciones UAS.
 4. **Práctica 4:** Cálculo de pago por viaje de maíz.
 5. **Práctica 5:** Caseta de cobro.
+6. **Práctica 6:** Inversión compuesta.
+7. **Práctica 7:** Tienda de abarrotes.
+8. **Práctica 8:** Presupuesto Sinaloa.
 
 ## ⚙️ Requisitos
 
