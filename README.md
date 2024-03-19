@@ -18,9 +18,12 @@ El contenido del repositorio se organiza de la siguiente manera:
 7. **Práctica 7:** Tienda de abarrotes.
 8. **Práctica 8:** Presupuesto Sinaloa.
 
+### ℹ️ Aviso importante a partir de la Práctica 9: Desde esta práctica en adelante, se utilizarán Microsoft Forms junto con el lenguaje Visual Basic para la implementación de las soluciones. 🚀
+
 9. **Práctica 9:** Venta de ladrillos (Interfaz grafica)
 10. **Práctica 10.** Aguinaldo
 11. **Práctica 11.** Gasolinera
+12. **Practica 12.** CURP + RFC
 
 ## ⚙️ Requisitos
 
