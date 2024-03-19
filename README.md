@@ -19,6 +19,7 @@ El contenido del repositorio se organiza de la siguiente manera:
 8. **Práctica 8:** Presupuesto Sinaloa.
 
 9. **Práctica 9:** Venta de ladrillos (Interfaz grafica)
+10. **Práctica 10.** Aguinaldo
 
 ## ⚙️ Requisitos
 
