@@ -26,6 +26,8 @@ El contenido del repositorio se organiza de la siguiente manera:
 12. **Practica 12.** CURP + RFC
 13. **Practica 13.** Calculo utlidades en una empresa
 14. **Practica 14.** Transferencias bancarias (SPEI)
+15. **Practica 15.** Escritura archivos .TXT
+15. **Practica 16.** Lectura archivos .TXT
 
 ## ⚙️ Requisitos
 
